@@ -1,0 +1,25 @@
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    width: 20vw;
+    padding: 30px;
+    margin: 50px auto;
+    background-color: #1d1e20;
+    text-align: center;
+  }
+  
+  .title {
+    color: grey;
+  }
+  
+ .card a {
+    text-decoration: none;
+    color: whitesmoke;
+  }
+  
+ .card button:hover, .card a:hover {
+    opacity: 0.7;
+  }
+
+  .details{
+    height: 150px;
+  }

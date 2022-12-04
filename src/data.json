@@ -1,0 +1,72 @@
+[
+    {
+        "lab_id": 1,
+        "Lab_Code": 1,
+        "NAME_CONTACT_DETAILS_OF_THE_LABORATORY": "Medical Testing Laboratory, Yashoda Superspeciality Hospital, H-1, Kaushambi,\nGhaziabad – 201010\nMob: 09717644567\nE-mail : yashodaklab@gmail.com Contact Person : Dr. Chakshu Bansal",
+        "Type": "Hospital",
+        "Lab_In_Charge": "Dr Chaksbhu Bansal",
+        "Phone_Number": "09717644567",
+        "Email_Id": "yashodaklab@gmail.com",
+        "MD_Pathologist": "Yes",
+        "Certifilcations": "NABL",
+        "Pincode": "201010",
+        "City": "Kaushambi, Ghaziabad",
+        "Types_of_Tests": "Clinical Biochemistry Clinical Pathology Haematology & Immunohaematology Microbiology & Serology Cytopathology Molecular Testing"
+    },
+    {
+        "lab_id": 2,
+        "Lab_Code": 2,
+        "NAME_CONTACT_DETAILS_OF_THE_LABORATORY": "Bhushan Labs\n(Dept. of Laboratory Services), Old Home Guard Office,\nNH-31, Ashok Nagar, Begusarai Bihar - 851101\nTel. : 06243-222620\nMobil : 09570939400\nEmail: dr_sbhushan@yahoo.com Contact Person: Dr. Shashi Bhushan",
+        "Type": "Diagnostic Lab",
+        "Lab_In_Charge": "Dr Chaksbhu Bhushan",
+        "Phone_Number": "09570939400",
+        "Email_Id": "dr_sbhushan@yahoo.com",
+        "MD_Pathologist": "Yes",
+        "Certifilcations": "NABL",
+        "Pincode": "851101",
+        "City": "Begusarai, Ashok Nagar",
+        "Types_of_Tests": "Clinical Biochemistry Clinical Pathology Haematology & Immunohaematology"
+    },
+    {
+        "lab_id": 3,
+        "Lab_Code": 3,
+        "NAME_CONTACT_DETAILS_OF_THE_LABORATORY": "Kale Pathology Laboratory 31, Mitra Nagar,\nBehind Akashwani, Aurangabad 431005 Maharashtra\nTel. : 02402340558\nEmail: admin@kalepathology.com Contact Person : Dr. Sachin Kale",
+        "Type": "Diagnostic Lab",
+        "Lab_In_Charge": "Dr Chaksbhu Kale",
+        "Phone_Number": "02402340558",
+        "Email_Id": "admin@kalepathology.com",
+        "MD_Pathologist": "Yes",
+        "Certifilcations": "NABL",
+        "Pincode": "431005",
+        "City": "Aurangabad",
+        "Types_of_Tests": "Clinical Biochemistry Clinical Pathology Haematology & Immunohaematology"
+    },
+    {
+        "lab_id": 4,
+        "Lab_Code": 4,
+        "NAME_CONTACT_DETAILS_OF_THE_LABORATORY": "SRL Limited,\nFortis Escorts Hospital,\nJLN Marg, Jaipur, Rajasthan Tel. : Ph: 09314101216\nContact Person: Dr. Neeraj Krishna Goyal, Senior Pathologist & MRQA",
+        "Type": "Hospital",
+        "Lab_In_Charge": "Dr Chaksbhu MRQA",
+        "Phone_Number": "09314101216",
+        "Email_Id": "#VALUE!",
+        "MD_Pathologist": "Yes",
+        "Certifilcations": "NABL",
+        "Pincode": null,
+        "City": "Krishna, Jaipur",
+        "Types_of_Tests": "Clinical Biochemistry Clinical Pathology Haematology & Immunohaematology Microbiology & Serology Histopathology Cytopathology"
+    },
+    {
+        "lab_id": 5,
+        "Lab_Code": 5,
+        "NAME_CONTACT_DETAILS_OF_THE_LABORATORY": "MedcisPathlabs India Pvt. Ltd., Secunderabad, Plot 16 & 17, swathi plaza, bhavani enclave, anand nagar, near asish gardens, new bowenpally, Secunderabad500011, Telangana Mob:8008999365\nEmail:qa@medcislabs.com Contact Person:BHAGATSINGH CH",
+        "Type": "Diagnostic Lab",
+        "Lab_In_Charge": null,
+        "Phone_Number": "8008999365",
+        "Email_Id": "Mob:8008999365\nEmail:qa@medcislabs.com",
+        "MD_Pathologist": null,
+        "Certifilcations": "NABL",
+        "Pincode": "500011",
+        "City": "Anand",
+        "Types_of_Tests": "Clinical Biochemistry, Clinical Pathology, Haematology&Immunohaematolo gy, Microbiology & Serology"
+    }
+]

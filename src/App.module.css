@@ -1,0 +1,25 @@
+.cards{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.queryBox{
+    width: 300px;
+    height: 40px;
+    padding: 5px;
+    border-radius: 5px;
+    margin: 10px auto;
+    margin-top: 50px;
+    display: block;
+    color: #2f3237;
+    font-weight: 600;
+    font-size: 20px;
+}
+
+.loader{
+    text-align: center;
+    margin: 200px auto;
+}
